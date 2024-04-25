@@ -1,4 +1,4 @@
-## End to End AI app using Streamlit and Langchain.
+## End-to-end LLM AI app using Streamlit and Langchain.
 ![alt text](https://github.com/sharath7879/streamlit-ask-thedoc-app/blob/main/AsktheDocApp.png)
 To create this ask the doc app, using Streamlit and Langchain, need below pre-requisites and libraries. This repo has all the necessary files to create the end-to-end app, including the DockerFile to build the Docker container.
 
