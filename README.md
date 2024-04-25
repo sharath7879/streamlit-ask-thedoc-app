@@ -4,11 +4,11 @@ To create this ask the doc app, using Streamlit and Langchain, need below pre-re
 
 First, we need the LLM model, in this case, I am using, the llama2 model, but you can replace it with any model of your choice.
 
-The libraries used to develop this app are listed in the requirements.txt file
-         langchain
-         langchain_community
-         ctransformers
-         streamlit
-         chromadb
-         watchdog
+The libraries used to develop this app are listed in the requirements.txt file:
+         langchain,
+         langchain_community,
+         transformers,
+         streamlit,
+         chromadb,
+         watchdog,
          sentence-transformers
